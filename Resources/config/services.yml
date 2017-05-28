@@ -1,0 +1,7 @@
+services:
+#    symfgenus_google_gmail.example:
+#        class: Symfgenus\GoogleGmailBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
+
+    symfgenus.google_gmail:
+        class: Symfgenus\GoogleGmailBundle\Service\GoogleGmail

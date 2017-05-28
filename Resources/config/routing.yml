@@ -1,0 +1,3 @@
+symfgenus_google_gmail_homepage:
+    path:     /
+    defaults: { _controller: SymfgenusGoogleGmailBundle:Default:index }
